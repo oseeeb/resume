@@ -510,17 +510,57 @@ section.hero .inner-hero {
     border: 20px solid #4e93e6;
     line-height: 50px;
 }
+.language-list li span.p85 {
+    border: 15px solid #4e93e6;
+    line-height: 53px;
+}
+.language-list li span.p80 {
+    border: 15px solid #4e93e6;
+    line-height: 55px;
+}
+.language-list li span.p75 {
+    border: 15px solid #4e93e6;
+    line-height: 58px;
+}
 .language-list li span.p70 {
     border: 15px solid #4e93e6;
     line-height: 60px;
+}
+.language-list li span.p65 {
+    border: 10px solid #4e93e6;
+    line-height: 63px;
+}
+.language-list li span.p60 {
+    border: 15px solid #4e93e6;
+    line-height: 65px;
+}
+.language-list li span.p55 {
+    border: 10px solid #4e93e6;
+    line-height: 68px;
 }
 .language-list li span.p50 {
     border: 10px solid #4e93e6;
     line-height: 70px;
 }
+.language-list li span.p45 {
+    border: 10px solid #4e93e6;
+    line-height: 73px;
+}
+.language-list li span.p40 {
+    border: 10px solid #4e93e6;
+    line-height: 75px;
+}
+.language-list li span.p35 {
+    border: 10px solid #4e93e6;
+    line-height: 78px;
+}
+.language-list li span.p30 {
+    border: 10px solid #4e93e6;
+    line-height: 80px;
+}
 .language-list li span.p20 {
     border: 5px solid #4e93e6;
-    line-height: 80px;
+    line-height: 90px;
 }
 .language-list li span {
     padding: 20px;
