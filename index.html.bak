@@ -614,6 +614,47 @@
                            <!--End row-->
                         </div>
                         <!--End row-->
+                        <!--Row-->
+                        <div class="row">
+                           <div class="col-md-12">
+                              <!--Block title-->
+                              <div class="block-title mb-80">
+                                 <h4>Testimonials</h4>
+                              </div>
+                              <!--End block title-->
+                           </div>
+                           <div class="col-md-12">
+                              <!--Block content-->	
+                              <div class="block-content">
+                                 <!--Block testimonilas-->
+                                 <div class="block-testimonials">
+                                    <ul id="testimonial-carousel" class="block-carousel">
+                                       <li>
+                                          <div class="block-quote">
+                                             <h6 class=" mb-20">Carlose Anderson<span> &lowbar; Developer</span></h6>
+                                             <blockquote>Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful, that's what matters to me. </blockquote>
+                                          </div>
+                                       </li>
+                                       <li>
+                                          <div class="block-quote">
+                                             <h6 class=" mb-20">Jonathan Kelly<span> &lowbar; UI designer</span></h6>
+                                             <blockquote>I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance.  </blockquote>
+                                          </div>
+                                       </li>
+                                       <li>
+                                          <div class="block-quote">
+                                             <h6 class=" mb-20">Andy Morgan<span> &lowbar; Marketer</span></h6>
+                                             <blockquote>Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.  </blockquote>
+                                          </div>
+                                       </li>
+                                    </ul>
+                                 </div>
+                                 <!--End block testimonilas-->
+                              </div>
+                              <!--End block content-->
+                           </div>
+                        </div>
+                        <!--End row-->
                      </div>
                      <!--End offset content-->	
                   </div>
@@ -651,11 +692,8 @@
                            <div data-filter=".logos" class="cbp-filter-item">
                               Logo <div class="cbp-filter-counter"></div>
                            </div>
-                           <div data-filter=".networks" class="cbp-filter-item">
-                              Reseaux Telecom <div class="cbp-filter-counter"></div>
-                           </div>
-                           <div data-filter=".marketing" class="cbp-filter-item">
-                              Marketing <div class="cbp-filter-counter"></div>
+                           <div data-filter=".fonts" class="cbp-filter-item">
+                              Fonts <div class="cbp-filter-counter"></div>
                            </div>
                         </div>
                         <!-- End portfolio filter -->
@@ -690,7 +728,7 @@
                            <!-- End project 1 -->
                            
                            <!-- Start project 2 -->
-                           <div class="cbp-item website networks">
+                           <div class="cbp-item website">
                               <a href="portfolioDetail/project2.html" class="cbp-caption cbp-singlePage" rel="nofollow">
                                  <div class="cbp-caption-defaultWrap">
                                     <img src="img/portfolio/2.jpg" alt="">
